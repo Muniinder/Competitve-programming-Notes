@@ -1,0 +1,8 @@
+ - modular exponential
+ - adding, subtracting, multiplication, divide in the form of a string
+ - Chinese remainder thoerem
+ - binary search (monotonicity)
+ - segment trees 
+   they can do everything what BI tree can do but takes a memory of n = 2^x 
+ - binary indexed trees
+   they represent number as a power of 2 and in some cases can be highly useful
